@@ -8,28 +8,30 @@
 
 <img src="https://github.com/user-attachments/assets/8e0aef75-7f7f-4a87-995f-57fb19f9719a" width="80%">
 
-🏅 Judges’ Feedback (심사평)
-
-본 프로젝트는 기술적 완성도, 문제 정의, 팀워크 측면에서 높은 평가를 받았습니다.
-
-💬 Selected Comments
-
-“WASM이라는 고난이도 기술을 제한된 시간 안에 실제로 동작하는 수준까지 구현해낸 점이 정말 인상적이었습니다.”
-— Makoto Shimazu (Progate)
-
-“콜드 스타트 문제에 대한 문제 정의가 명확했고, WASM이라는 접근은 이번 해커톤에서 가장 신선한 아이디어였습니다.”
-— KIM (SoftBank)
-
-“단순한 기술 선택이 아니라, 팀 내에서 반대 의견과 PoC 검증을 통해 성숙한 의사결정을 했다는 점이 매우 인상 깊었습니다.”
-— Shunsuke Nakamura (Progate)
-
-“멀티 AZ, Spot Instance, 보안·비용·가용성까지 함께 고려된 아키텍처 설계가 돋보였습니다.”
-— PARK (SoftBank Corp.)
-
-“WASM 기반 실행 노드의 특성을 이해하고 이를 인프라 설계에 반영한 점이 매우 뛰어났습니다.”
-— Furukawa (SoftBank)
 
 </div>
+---
+## 🏅 Judges’ Feedback (심사평)
+
+본 프로젝트는 **기술적 완성도, 문제 정의, 팀워크** 측면에서 높은 평가를 받았습니다.
+
+### 💬 Selected Comments
+
+> **“WASM이라는 고난이도 기술을 제한된 시간 안에 실제로 동작하는 수준까지 구현해낸 점이 정말 인상적이었습니다.”**  
+> — *Makoto Shimazu (Progate)*
+
+> **“콜드 스타트 문제에 대한 문제 정의가 명확했고, WASM이라는 접근은 이번 해커톤에서 가장 신선한 아이디어였습니다.”**  
+> — *KIM (SoftBank)*
+
+> **“단순한 기술 선택이 아니라, 팀 내에서 반대 의견과 PoC 검증을 통해 성숙한 의사결정을 했다는 점이 매우 인상 깊었습니다.”**  
+> — *Shunsuke Nakamura (Progate)*
+
+> **“멀티 AZ, Spot Instance, 보안·비용·가용성까지 함께 고려된 아키텍처 설계가 돋보였습니다.”**  
+> — *PARK (SoftBank Corp.)*
+
+> **“WASM 기반 실행 노드의 특성을 이해하고 이를 인프라 설계에 반영한 점이 매우 뛰어났습니다.”**  
+> — *Furukawa (SoftBank)*
+
 
 ---
 
