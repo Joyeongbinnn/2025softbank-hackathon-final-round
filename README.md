@@ -2,7 +2,6 @@
 
 # SOFTBANK HACKATHON 2025 FINAL
 
-> <h3>🎯 THEME</h3>
 > <h3>"Run Your Functions Instantly over HTTP"</h3>
 > EC2/Compute Engine 위에서 구현하는 차세대 Serverless 플랫폼
 
